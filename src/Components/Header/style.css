@@ -1,0 +1,14 @@
+.header-wrapper {
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.ml-5{
+    margin-left: 5px;
+}

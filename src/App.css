@@ -1,4 +1,16 @@
-.App {
+.main-wrapper {
+  background: #f4f6f8;
+  min-height: 100vh;
+}
+
+.body-wrapper {
+  width: 80%;
+  margin: 0 auto;
+  /* display: flex;
+  justify-content: space-around;
+  align-items: center; */
+}
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +47,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
